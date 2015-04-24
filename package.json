@@ -1,13 +1,13 @@
 {
-  "name": "superjs-boros-mysql",
+  "name": "superjs-ourosql",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.0",
-  "description": "Boros Mysql is ORM Adapter for Mysql based on Knex.",
+  "version": "0.8.1",
+  "description": "OuroSQL is ORM Adapter for SuperJS based on Knex.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-boros-mysql",
+  "repository": "https://github.com/asleepinglion/superjs-ourosql",
   "dependencies": {
     "bluebird": "*",
     "superjs": "*",

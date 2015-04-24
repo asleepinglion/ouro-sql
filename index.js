@@ -19,6 +19,6 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
                      -= OurBoros MySQL ORM   =-
  */
 
-module.exports.BorosMysql = require('./lib/boros-mysql/class');
+module.exports.Ourosql = require('./lib/ourosql/class');
 module.exports.Controller = require('./lib/controller/class');
 module.exports.Model = require('./lib/model/class');
