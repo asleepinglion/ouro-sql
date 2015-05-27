@@ -4,7 +4,7 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.16",
+  "version": "0.8.17",
   "description": "OuroSQL is ORM Adapter for SuperJS based on Knex.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-ourosql",
@@ -12,8 +12,8 @@
     "bluebird": "*",
     "superjs": "*",
     "superjs-api": "*",
-    "knex": "*",
-    "mysql": "*",
+    "knex": "0.7.6",
+    "mysql": "2.6.2",
     "underscore": "*"
   },
   "license": "MIT"
