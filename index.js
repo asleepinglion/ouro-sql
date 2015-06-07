@@ -22,3 +22,7 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 module.exports.Ourosql = require('./lib/ourosql/class');
 module.exports.Controller = require('./lib/controller/class');
 module.exports.Model = require('./lib/model/class');
+module.exports.Search = require('./lib/controller/actions/search/class');
+module.exports.Create = require('./lib/controller/actions/create/class');
+module.exports.Update = require('./lib/controller/actions/update/class');
+module.exports.Delete = require('./lib/controller/actions/delete/class');
